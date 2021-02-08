@@ -21,3 +21,8 @@ Aquí está la documentación de bootstrap 4 sobre formularios: [https://getboot
 ## ¿Qué hacer si estás atascado?
 
 ¡No te sientas frustrado y pide ayuda! Después de probarlo por 30 minutos, es hora de dejar de intentarlo y pedir ayuda.
+
+##Datos del formulario
+
+1. Ir debajo del input de Message, en el texto "Add any notes here" y 
+2. Cambiar la palabra "any" por "some" en el formulario, según la gramática any se usa en preguntas o en negación, es decir, este caso no aplica.
